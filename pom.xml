@@ -33,7 +33,7 @@
 			sonar:sonar without passing a profile -->
 		<!-- Tells Sonar to use jacoco for coverage results -->
 		<sonar.projectKey>Raj9595</sonar.projectKey>
-		<sonar.projectName>EnrollmentProject</sonar.projectName>
+		<sonar.projectName>idn-enrollment</sonar.projectName>
 		<sonar.projectVersion>${yearMonth}</sonar.projectVersion>
 		<sonar.language>java</sonar.language>
 		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
@@ -222,7 +222,7 @@
 					</formats>
 					<check>
 						<haltOnFailure>true</haltOnFailure>
-						<branchRate>30</branchRate>
+						<branchRate>50</branchRate>
 						<lineRate>0</lineRate>
 						<totalBranchRate>30</totalBranchRate>
 						<totalLineRate>30</totalLineRate>
