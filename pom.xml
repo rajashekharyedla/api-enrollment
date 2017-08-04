@@ -222,7 +222,7 @@
 					</formats>
 					<check>
 						<haltOnFailure>true</haltOnFailure>
-						<branchRate>90</branchRate>
+						<branchRate>50</branchRate>
 						<lineRate>0</lineRate>
 						<totalBranchRate>30</totalBranchRate>
 						<totalLineRate>30</totalLineRate>
